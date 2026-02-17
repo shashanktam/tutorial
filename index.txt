@@ -1,0 +1,11 @@
+Project Name : Libris: A Credit-Based Peer-to-Peer Academic Exchange 
+
+Date : 4 Febraury 2026 
+
+Description : Libris: A Credit-Based Peer-to-Peer Academic Exchange, is a specialized marketplace designed for the IIT Patna student community to buy, sell, 
+              and request academic books. Unlike generic marketplaces, BookBridge solves the two biggest 
+              hurdles of campus trading: Market Liquidity (The Ghost Town Problem) and User Safe.
+
+Languages used : Python (version 3)
+
+Author : Shashwatam Shashank (Project Lead and Backend support)
